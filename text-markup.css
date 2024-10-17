@@ -1,0 +1,26 @@
+body {
+    font-family: "Roboto Light", Helvetica, sans-serif;
+    margin: 20px;
+}
+
+.attribute {
+    padding: 3px;
+    background-color: rgba(166, 166, 166, 0.44);
+    border-radius: 3px;
+}
+
+.code {
+    background-color: rgba(166, 166, 166, 0.44);
+}
+
+p {
+    line-height: 25px;
+}
+
+code {
+    font-size: 15px;
+}
+
+li {
+    line-height: 25px;
+}

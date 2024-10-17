@@ -1,0 +1,14 @@
+html {
+    font-family: "Montserrat", "Arial", sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+body {
+    max-width: 1000px;
+    margin: 40px;
+}
+
+li {
+    margin: 10px;
+}
